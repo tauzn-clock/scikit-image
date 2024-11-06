@@ -22,7 +22,7 @@ python_sources = [
   '_chan_vese.py',
   '_clear_border.py',
   '_expand_labels.py',
-  '_all_felzenswalb.py',
+  '_all_felzenszwalb.py',
   '_felzenszwalb.py',
   '_join.py',
   '_quickshift.py',
