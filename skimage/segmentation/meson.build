@@ -1,4 +1,5 @@
 extensions = [
+  '_allfelzenszwalb_cy',
   '_felzenszwalb_cy',
   '_quickshift_cy',
   '_slic',
@@ -21,6 +22,7 @@ python_sources = [
   '_chan_vese.py',
   '_clear_border.py',
   '_expand_labels.py',
+  '_all_felzenswalb.py',
   '_felzenszwalb.py',
   '_join.py',
   '_quickshift.py',
